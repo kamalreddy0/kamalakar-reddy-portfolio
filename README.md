@@ -135,7 +135,7 @@ Iterate
 
 **LinkedIn:** https://linkedin.com/in/kamalakarreddy
 
-**Portfolio:** (Coming Soon)
+**Portfolio:** https://kamalreddy0.github.io/kamalakar-reddy-portfolio/
 
 ---
 
