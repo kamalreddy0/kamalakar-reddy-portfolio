@@ -133,9 +133,7 @@ Iterate
 
 ## 📬 Connect With Me
 
-**LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
-
-**GitHub:** https://github.com/YOUR-GITHUB
+**LinkedIn:** https://linkedin.com/in/kamalakarreddy
 
 **Portfolio:** (Coming Soon)
 
